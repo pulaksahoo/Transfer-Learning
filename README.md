@@ -7,4 +7,4 @@ Use the transfer learning technique to freeze a few layers of the
 pretrained models and retrain using the new data set
 Show the accuracy on the new data-set should be roughly equal to or
 more than original imagenet accuracy.
-use TF framework
+Used TF framework
